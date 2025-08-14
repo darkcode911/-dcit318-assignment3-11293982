@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.exe
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.deps.json
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.runtimeconfig.json
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.dll
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.pdb
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.AssemblyInfo.cs
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.sourcelink.json
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.dll
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\obj\Debug\net9.0\refint\WarehouseManagementSystem.dll
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.pdb
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.genruntimeconfig.cache
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\WarehouseManagementSystem\obj\Debug\net9.0\ref\WarehouseManagementSystem.dll
