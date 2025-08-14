@@ -1,0 +1,5 @@
+101,Alice Smith,84
+102,Bob Johnson,77
+103,Charlie Brown,65
+104,Diana Prince,95
+105,Eve Adams,invalid_score
