@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\bin\Debug\net9.0\InventoryLoggerSystem.exe
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\bin\Debug\net9.0\InventoryLoggerSystem.deps.json
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\bin\Debug\net9.0\InventoryLoggerSystem.runtimeconfig.json
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\bin\Debug\net9.0\InventoryLoggerSystem.dll
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\bin\Debug\net9.0\InventoryLoggerSystem.pdb
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.AssemblyInfo.cs
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.sourcelink.json
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.dll
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\obj\Debug\net9.0\refint\InventoryLoggerSystem.dll
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.pdb
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.genruntimeconfig.cache
+C:\Users\pc\Desktop\-dcit318-assignment3-11293982\InventoryLoggerSystem\obj\Debug\net9.0\ref\InventoryLoggerSystem.dll
